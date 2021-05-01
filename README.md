@@ -1,17 +1,4 @@
-# how do i use this
+# Github
 
-a
-
-
-
-
-
-
-
-
-
-
-
-
-
-test
+cool this is my github. \
+i like this
