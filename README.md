@@ -5,7 +5,7 @@ i like this
 # System Information
 | Laptop | MSI GL72M 7RDX |
 | ----------- | ----------- |
-| OS | [Gentoo (main)](https://gentoo.org) + [Revision (gaming)](https://revi.cc) |
+| OS | [Gentoo (main)](https://gentoo.org) + [Revision (gaming)](https://sites.google.com/view/meetrevision) |
 | CPU | i7 7700 HQ |
 | RAM | 16GB @ 2400HZ |
 | GPU | GTX 1050 Mobile + HD Graphics 630 | 
