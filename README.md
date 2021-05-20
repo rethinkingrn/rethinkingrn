@@ -2,6 +2,7 @@
 
 cool this is my github. \
 i like this
+> i have no clue what im doing
 # System Information
 | Laptop | MSI GL72M 7RDX |
 | ----------- | ----------- |
@@ -14,6 +15,6 @@ i like this
 | SHELL | [zsh](https://github.com/zsh-users/zsh) |
 ## Noteable Repositories
 [Dotfiles](https://github.com/rethinkingrn/dotfiles) \
-[Browser Startpage](https://github.com/rethinkingrn/startpage) \
+[Startpage Collection](https://github.com/rethinkingrn/startpage) \
 [Personal Build of dwm](https://github.com/rethinkingrn/dwm-flexipatch)
 
