@@ -1,3 +1,7 @@
+# I don't use github anymore
+## Currently moving to [Gitlab](https://gitlab.com/rethinkingrn)
+
+
 # My Personal Github
 
 cool this is my github. \
@@ -10,7 +14,7 @@ i like this aaaaaaaaa
 # System Information
 | Laptop | MSI GL72M 7RDX |
 | ----------- | ----------- |
-| OS | [Gentoo](https://gentoo.org) + [Revision](https://sites.google.com/view/meetrevision) |
+| OS | [NixOS](https://nixos.org) + [Revision](https://sites.google.com/view/meetrevision) |
 | CPU | i7 7700 HQ |
 | RAM | 16GB @ 2400MHZ |
 | GPU | GTX 1050 Mobile + HD Graphics 630 | 
