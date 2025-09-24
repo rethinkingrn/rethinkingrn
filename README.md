@@ -2,12 +2,18 @@
 
 ---
 
+
 ## 🚀 About Me
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rethinkingrn&show_icons=true&theme=github_dark_dimmed&hide_border=true">
+    <img align="right" width="41%" src="https://github-readme-stats.vercel.app/api?username=rethinkingrn&show_icons=true&theme=github_dark_dimmed&hide_border=true">
+</picture>
 
 - 👨🏿‍🦯 Working as a "block enforcer" in my own startup company (Street Smarts Inc.)
-- 🔭 550 ELO in **Vibe Coding League** (**VCL**)
-- 🌱 I’m currently learning 广州 Ancient Technology 减低景气
-- 👯 Top 150k on Nitrotype
+- 🔭 550 ELO in [**Vibe Coding League** (**VCL**)](https://www.rallyinnovation.com/vibe-coding-competition)
+- 🌱 I’m currently learning [广州 Ancient Technology 减低景气](https://en.wikipedia.org/wiki/Four_Eminent_Monks_of_the_Wanli_Era)
+- 👯 Top 150k on [Monkeytype](https://monkeytype.com/)
+- 🎮 Top 50000 on [osu!](https://osu.ppy.sh/users/30821446/taiko)
 
 ---
 
@@ -96,18 +102,6 @@
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
 
 ---
-
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rethinkingrn&show_icons=true&theme=ambient_gradient&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rethinkingrn&theme=ambient_gradient&hide_border=true&layout=compact" />
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/rethinkingrn">
-    <img src="https://streak-stats.demolab.com?user=rethinkingrn>&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rethinkingrn&color=blueviolet&style=flat" alt="Profile Views" />
