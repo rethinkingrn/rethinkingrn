@@ -104,7 +104,9 @@
 ---
 
 ## 🍔 Diet
-<img src="http://img.rethinkingrn.xyz/u/K4kmhL.jpg" alt="Eats" />
+<p align="center">
+    <img width="67%" src="http://img.rethinkingrn.xyz/u/K4kmhL.jpg" alt="Eats" />
+</p>
 
 ---
 
