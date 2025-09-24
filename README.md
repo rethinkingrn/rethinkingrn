@@ -40,6 +40,8 @@
 ### **Operating Systems**
 [![Asahi Linux](https://img.shields.io/badge/Asahi%20Linux-A61200?logo=asahilinux&logoColor=fff)](#)
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000?logo=nobaralinux&logoColor=fff)](#)
 [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
@@ -96,15 +98,14 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/rethinkingrn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rethinkingrn&show_icons=true&theme=github_dark_dimmed&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rethinkingrn&theme=github_dark_dimmed&hide_border=true&layout=compact" />
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rethinkingrn&show_icons=true&theme=ambient_gradient&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rethinkingrn&theme=ambient_gradient&hide_border=true&layout=compact" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/rethinkingrn">
-    <img src="https://streak-stats.demolab.com?user=rethinkingrn>&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=rethinkingrn>&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
