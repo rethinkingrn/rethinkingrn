@@ -103,6 +103,11 @@
 
 ---
 
+## 🍔 Diet
+<img src="http://img.rethinkingrn.xyz/u/K4kmhL.jpg" alt="Eats" />
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rethinkingrn&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
