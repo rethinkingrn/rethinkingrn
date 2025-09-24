@@ -1,9 +1,113 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Potenti nullam ac tortor vitae purus. Diam sollicitudin tempor id eu nisl nunc. Dui ut ornare lectus sit amet est placerat in egestas. Vestibulum sed arcu non odio euismod lacinia at quis risus. Mollis aliquam ut porttitor leo. In aliquam sem fringilla ut. A iaculis at erat pellentesque adipiscing commodo elit. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Sit amet volutpat consequat mauris nunc congue. Laoreet sit amet cursus sit amet dictum. Sapien faucibus et molestie ac.
+<h1 align="center">Hi there, I'm deshawn dequantavious jamal adam smith III! 👋</h1>
 
-Sit amet dictum sit amet justo. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Tempus iaculis urna id volutpat lacus laoreet non. Varius morbi enim nunc faucibus a pellentesque sit. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Leo vel fringilla est ullamcorper eget nulla facilisi. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam sem fringilla ut morbi tincidunt. Sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Enim ut tellus elementum sagittis vitae et. Dui id ornare arcu odio ut. Neque sodales ut etiam sit amet. Amet consectetur adipiscing elit pellentesque habitant.
+---
 
-Vitae sapien pellentesque habitant morbi tristique senectus et. Maecenas ultricies mi eget mauris pharetra et ultrices. Tempus urna et pharetra pharetra massa massa ultricies mi quis. Tellus in metus vulputate eu. Aliquam purus sit amet luctus. Aliquam eleifend mi in nulla posuere sollicitudin aliquam. Varius quam quisque id diam vel quam. Massa sapien faucibus et molestie ac feugiat. Blandit aliquam etiam erat velit scelerisque in dictum non. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae. Commodo viverra maecenas accumsan lacus vel facilisis volutpat. A diam maecenas sed enim. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Sed sed risus pretium quam vulputate. Praesent elementum facilisis leo vel fringilla est. At tempor commodo ullamcorper a lacus vestibulum.
+## 🚀 About Me
 
-Auctor elit sed vulputate mi sit amet mauris commodo quis. Fermentum odio eu feugiat pretium. Sodales neque sodales ut etiam sit amet. Cum sociis natoque penatibus et magnis. Neque volutpat ac tincidunt vitae semper quis. Mus mauris vitae ultricies leo integer malesuada nunc vel. Lobortis scelerisque fermentum dui faucibus in. Ornare quam viverra orci sagittis eu volutpat odio. Sed enim ut sem viverra aliquet eget sit amet. Dolor purus non enim praesent elementum facilisis leo. Duis ultricies lacus sed turpis tincidunt. Non enim praesent elementum facilisis. Amet porttitor eget dolor morbi.
+- 👨🏿‍🦯 Working as a "block enforcer" in my own startup company (Street Smarts Inc.)
+- 🔭 550 ELO in **Vibe Coding League** (**VCL**)
+- 🌱 I’m currently learning 广州 Ancient Technology 减低景气
+- 👯 Top 150k on Nitrotype
 
-Vulputate dignissim suspendisse in est ante in. Quam quisque id diam vel. Interdum consectetur libero id faucibus nisl tincidunt eget. Turpis egestas sed tempus urna et pharetra pharetra. Praesent tristique magna sit amet purus. Libero nunc consequat interdum varius sit amet mattis vulputate. Placerat in egestas erat imperdiet sed euismod nisi. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Lorem ipsum dolor sit amet consectetur adipiscing. Massa placerat duis ultricies lacus sed turpis tincidunt id. Sed faucibus turpis in eu mi bibendum neque egestas congue. Nullam ac tortor vitae purus. Natoque penatibus et magnis dis parturient montes nascetur ridiculus. Sed vulputate mi sit amet mauris commodo quis. Cras semper auctor neque vitae tempus quam pellentesque nec nam.
+---
+
+## 💻 Social Media
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](#)
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](#)
+[![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white)](#)
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](#)
+[![Pixiv](https://img.shields.io/badge/pixiv-%2300ADD8.svg?logo=pixiv&logoColor=white)](#)
+[![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white)](#)
+
+---
+
+## 🛠️ Tech Stack
+
+### **Vibe Coding Setup**
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)](#)
+[![Uber Eats](https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white)](#)
+[![Doordash](https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white)](#)
+
+### **Operating Systems**
+[![Asahi Linux](https://img.shields.io/badge/Asahi%20Linux-A61200?logo=asahilinux&logoColor=fff)](#)
+[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
+
+### **Languages & Frameworks**
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+
+### **Tools & Platforms**
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
+[![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColor=fff)](#)
+[![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#)
+[![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![Nintendo eShop](https://custom-icon-badges.demolab.com/badge/Nintendo%20eShop-FF7D00?logo=nintendo&logoColor=fff)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+[![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#)
+[![GNU IceCat](https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff)](#)
+
+## 💰 **Ways to support me**
+[![Monero](https://img.shields.io/badge/Monero-F60?logo=monero&logoColor=fff)](#)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)
+[![Alipay](https://img.shields.io/badge/Alipay-1677FF?logo=alipay&logoColor=fff)](#)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](#)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](#)
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
+[![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#)
+[![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff)](#)
+[![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
+
+---
+
+<p align="center">
+  <a href="https://github.com/rethinkingrn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rethinkingrn&show_icons=true&theme=github_dark_dimmed&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rethinkingrn&theme=github_dark_dimmed&hide_border=true&layout=compact" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rethinkingrn">
+    <img src="https://streak-stats.demolab.com?user=rethinkingrn>&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rethinkingrn&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
